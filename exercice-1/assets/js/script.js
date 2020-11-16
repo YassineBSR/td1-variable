@@ -1,5 +1,3 @@
-var null = null;
-
-null = 10;
-
-alert(null);
+let empty= null;
+//Alerte est un fonction navigateur//
+window.alert(null);
